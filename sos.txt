@@ -1,3 +1,4 @@
+'a'..'z'
 czosnkowy
 tysiąca wysp
 amerykański
